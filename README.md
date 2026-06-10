@@ -10,7 +10,7 @@ Console.WriteLine("👋 Hello World, I'm Mintre. I'm just a tech lover fr");
 - 🌍 Basé à **Lomé, Togo**
 - 📧 Contact : [banbenoit10@gmail.com](mailto:banbenoit10@gmail.com)
 - 🧠 En apprentissage : **Go** & **Rust**
-- ☕ Dev qui debug avec du café et de l'humour
+
 
 ---
 
@@ -102,4 +102,4 @@ Console.WriteLine("👋 Hello World, I'm Mintre. I'm just a tech lover fr");
 
 ---
 
-<sub>✨ *"Le code passe, le café reste"* — Im Mintre ☕</sub>
+
