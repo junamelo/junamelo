@@ -1,12 +1,20 @@
-👋 My name is Ben
+Console.WriteLine("👋 Hello World, I'm Mintre. I'm just a tech lover fr");
 ======================================================================================================
 
-Fullstack Developer | AI Enthusiast (Pro Claude 😂✊) | Open Source Lover
----------------------
+**Fullstack Developer** |  AI Enthusiast *(Pro Claude 😂✊)* | ❤️ Open Source Lover
 
-* 🌍  I'm based in Lomé
-* ✉️  You can contact me at [banbenoit10@gmail.com](mailto:banbenoit10@gmail.com)
-* 🧠  I'm currently learning Go and Rust
+---
+
+### 📍 À propos de moi
+
+- 🌍 Basé à **Lomé, Togo**
+- 📧 Contact : [banbenoit10@gmail.com](mailto:banbenoit10@gmail.com)
+- 🧠 En apprentissage : **Go** & **Rust**
+- ☕ Dev qui debug avec du café et de l'humour
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
@@ -58,13 +66,17 @@ Fullstack Developer | AI Enthusiast (Pro Claude 😂✊) | Open Source Lover
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 </p>
 
+---
+
+### 👥 Communauté
+
 <a href="https://www.github.com/junamelo" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/junamelo?logo=github&style=for-the-badge&color=6366f1&labelColor=171717&label=Followers" alt="GitHub followers" />
 </a>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Stats
 
 <a href="http://www.github.com/junamelo"><img src="https://github-readme-stats.vercel.app/api?username=junamelo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="junamelo's GitHub stats" /></a>
 
@@ -72,7 +84,9 @@ Fullstack Developer | AI Enthusiast (Pro Claude 😂✊) | Open Source Lover
 
 <a href="https://github.com/junamelo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junamelo&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-### Socials
+---
+
+### 🌐 Retrouve-moi ailleurs
 
 <p align="left">
   <a href="https://www.linkedin.com/in/benoit-bal-39500a320/" target="_blank" rel="noreferrer">
@@ -85,3 +99,7 @@ Fullstack Developer | AI Enthusiast (Pro Claude 😂✊) | Open Source Lover
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
   </a>
 </p>
+
+---
+
+<sub>✨ *"Le code passe, le café reste"* — Im Mintre ☕</sub>
