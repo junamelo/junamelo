@@ -1,7 +1,7 @@
 Console.WriteLine("👋 Hello World, it's Mintre. I'm just a tech lover fr");
 ======================================================================================================
 
-**Fullstack Developer** |  AI Enthusiast *(Pro Claude 😂✊)* | ❤️ Open Source Lover
+**Fullstack Developer** |  AI Enthusiast *(Pro Claude 😂✊)* | ❤️❤️❤️ Open Source Lover
 
 ---
 
