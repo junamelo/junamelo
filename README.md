@@ -85,7 +85,7 @@ Console.WriteLine("👋 Hello World, it's Mintre. I'm just a tech lover fr");
 
 ---
 
-### 🌐 Retrouve-moi ailleurs
+### 🌐 M
 
 <p align="left">
   <a href="https://www.linkedin.com/in/benoit-bal-39500a320/" target="_blank" rel="noreferrer">
