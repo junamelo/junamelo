@@ -76,7 +76,7 @@ Console.WriteLine("👋 Hello World, it's Mintre. I'm just a tech lover fr");
 
 ---
 
-### 📊 GitHub Stats
+### My GitHub Stats
 
 <a href="http://www.github.com/junamelo"><img src="https://github-readme-stats.vercel.app/api?username=junamelo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=14b8a6&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="junamelo's GitHub stats" /></a>
 
